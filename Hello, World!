@@ -1,0 +1,284 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://lMqzRFudUWp7R9r:EIn4QGlFbH7qACs@localhost:49663/storage/emulated/0/index.html
+Subject: Hello, World!
+Date: Sat, 15 Jun 2024 16:13:20 +0530
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--eFpZ8e0BraC4hnFWttWtjuZde0GF2i7rNMqTa1fwYg----"
+
+
+------MultipartBoundary--eFpZ8e0BraC4hnFWttWtjuZde0GF2i7rNMqTa1fwYg----
+Content-Type: text/html
+Content-ID: <frame-732111750C8C901341CE3CB94C568EF3@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: http://lMqzRFudUWp7R9r:EIn4QGlFbH7qACs@localhost:49663/storage/emulated/0/index.html
+
+<!DOCTYPE html><html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-489e161b-ba15-4b83-86a0-fe8fb832e58a@mhtml.blink" />
+  
+  <title>Hello, World!</title>
+
+<link rel="stylesheet" href="http://lMqzRFudUWp7R9r:EIn4QGlFbH7qACs@localhost:49663/storage/emulated/0/styles.css">
+  
+</head>
+<body backgroundcolor="pink">
+
+  <nav style="color:cyan; backgrond-color:black;"><b><big>MAULANA AZAD NATIONAL URDU UNIVERSTIY</big></b></nav>
+  
+ <img src="http://uploads.edubilla.com/university/MaulanaAzadNationalUrduUniversity.png" width="345" height="200px">
+  
+  <hr>
+  
+  
+<form>
+    <b style="color:indigo">FILL THIS FORM:</b>
+  
+  <div>
+<b> NAME<input type="text" placeholder="name" border="4px" style="color:gray"></b></div><b><br></b>
+  <div>                                          
+<b> EMAIL<input type="email" placeholder="email">  </b></div><b>    <br></b>
+  <div>
+<b> ENROLLMENT<input type="alphanumaric" placeholder="enrollment"></b></div><b><br></b>
+  <div>
+<b> ROLL<input type="alphanumaric" placeholder="roll"></b></div><b><br></b>
+ <div>
+<b>ADDRESS<input type="text" placeholder="address"></b></div><b><br></b>
+    
+   
+ 
+<b style="color:white">SELECTE YOUR GENDER:</b>
+<div>
+    <input type="radio" id="femal" name="gender" value="femal" checked="">
+    <label for="femal"><b>femal</b></label>
+  </div>
+<div>
+    <input type="radio" id="meal" name="gender" value="meal">
+    <label for="meal"><b>meal</b></label>
+  </div>
+<div>
+    <input type="radio" id="other" name="gender" value="other">
+    <label for="other"><b>other</b></label>
+  </div>
+
+ <b style=" color:teal">QUALIFICATION</b>
+  <div>
+    <label for="CSE ENGINEERING">CSE ENGINEERING</label>
+<input type="checkbox" id="CSE ENGINEERING" name="CSE ENGINEERING" value="CSE ENGINEERING"><br>
+<label for="ECE ENGINEERING">ECE ENGINEERING</label>
+<input type="checkbox" id="ECE ENGINEERING" name="ECE ENGINEERING" value="ECE ENGINEERING"><br>
+<label for="CIVIL ENGINEERING">CIVIL ENGINEERING</label>
+<input type="checkbox" id="CIVIL ENGINEERING" name="CIVIL ENGINEERING" value="CIVIL ENGINEERING">
+</div><br>
+<b style="color:white">CHOOSE YOUR UNIVERCITY</b>
+<div> 
+  <select id="CHOOSE YOUR UNIVERTCITY">
+<option value="MANUU">MANUU</option>
+    <option value="IIT DELHI">IIT DELHI</option>
+    <option value="IIT MUMBAI">IIT MUMBAI</option>
+    <option value="IIT PATNA">IIT PATNA</option>
+    <option value="OSMANIA UNIVERSITY">OSMANIA UNIVERCITY</option>
+    
+  </select>
+  
+</div><br>
+<div>
+  <input type="submit" value="send request">
+
+
+  <input type="reset" value="reset value">
+</div>
+</form>
+<hr>
+
+<h2 style="color:black"><q>Maulana Azad National Urdu University is a Central University located in the city of Hyderabad in the Indian state of Telangana. It was named after Maulana Abul Kalam Azad, India's first Minister of Education, a freedom fighter in India's struggle for independence, and a scholar of Islam and Urdu literature.[3] It was the only Urdu university in India until the second university was built in the city of Kurnool, Andhra Pradesh in </q></h2>
+<hr>
+<!--<img src="content://media/external/downloads/1000002379" height="359px" width="359px">-->
+<h1 style="color:blue"><u>THE DETAIL OF STUDENT OS CSE</u></h1>
+<tfooter colspan="3">
+    </tfooter><table border="4px" bgcolor="Gray" width="359px">
+<thead style="color:pink"> <tr style="color:pink"> 
+<td colspan="3"><marquee style="color:white"> <b>STUDENT DETAIL</b></marquee></td>
+</tr>
+</thead>
+<tbody><tr>
+<th bgcolor="" style="color:white"><u><b>ENROLLMENT</b></u></th>
+<th bgcolor="" style="color:white"> <u>NAME</u></th> 
+<th bgcolor="" style="color:white"><u><b>DEPARTMENT</b></u></th>
+</tr>
+</tbody><tbody border="1px">
+<tr>
+<td align="center" bgcolor="" style="color:white">A221056</td>
+<td align="center" bgcolor="" style="color:white">sahiba</td> 
+<td align="center" bgcolor="" style="color:white">cse</td>
+</tr>
+<tr>
+<td align="center" bgcolor="" style="color:white">A221057</td> 
+        <td align="center" bgcolor="" style="color:white">safiya</td>
+          <td align="center" bgcolor="" style="color:white">cse</td>
+      </tr>
+        <tr>
+        <td align="center" bgcolor="" style="color:white">A221058</td>
+        <td align="center" bgcolor="" style="color:white">haniya</td> 
+        <td align="center" bgcolor="" style="color:white">cse</td>
+      </tr>
+      
+    <tr>
+        <td align="center" bgcolor="" style="color:white">A221059</td>
+        <td align="center" bgcolor="" style="color:white">inaya</td> 
+        <td align="center" bgcolor="" style="color:white">cse</td>
+      </tr>
+      <tr>
+        <td align="center" bgcolor="" style="color:white">A221060</td>
+        <td align="center" bgcolor="" style="color:white">rabiya</td> 
+        <td align="center" bgcolor="" style="color:white">cse</td>
+      </tr>
+      <tr><td align="center" bgcolor="" style="color:white">A221061</td>
+        <td align="center" bgcolor="" style="color:white">hiba</td> 
+        <td align="center" bgcolor="" style="color:white">cse</td>
+      </tr>
+      <tr>
+        <td align="center" bgcolor="" style="color:white">A221062</td>
+        <td align="center" bgcolor="" style="color:white">aayat</td> 
+        <td align="center" bgcolor="" style="color:white">cse</td>
+      </tr>
+      <tr>
+        <td align="center" bgcolor="" style="color:white">A221063</td>
+        <td align="center" bgcolor="" style="color:white">iram</td> 
+        <td align="center" bgcolor="" style="color:white">cse</td>
+      </tr> 
+  </tbody>
+  <tbody><tr> 
+      <td colspan="3"><marquee style="color:white"><b>ent of the table</b></marquee></td>
+      
+    </tr>
+    
+  
+  </tbody></table><br>
+<hr>
+<button><a href="https://manuucoe.in/ums/student/login"><b>manuu iums</b></a></button><br>
+<b>HTMAL BASIC IN UNORDER LIST </b>
+<ul>
+  <li>website </li>
+  <li>htmal</li>
+  <li>tag</li>
+  <li>element</li>
+  <li>opening</li>
+  <li>closeing tage</li>
+  <li>block elememt is cover 100%width like h1</li>
+  <li>inline element It covers as much space as needed</li>
+</ul>
+<b>PRINCIPAL OF WEB DEVELOPMENT</b>
+<ol type="roman">
+  <li>PURPOSE</li>
+  <li>SIMPLE </li>
+  <li>CONSISTENT</li>
+  <li>READIBILITY</li>
+  <li>COLOR</li>
+  <li>EASY LOAD</li>
+  <li>EASY NAVIGATION</li>
+  <li>COMMUNICATION</li>
+  
+</ol>
+  
+
+
+</body></html>
+------MultipartBoundary--eFpZ8e0BraC4hnFWttWtjuZde0GF2i7rNMqTa1fwYg----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-489e161b-ba15-4b83-86a0-fe8fb832e58a@mhtml.blink
+
+@charset "utf-8";
+
+tbody { text-decoration-color: white; }
+
+p { margin: 0.5px; padding: 0.5px; }
+
+form { margin: 8px 8px 8px 0px; }
+
+input type { margin: 9px; }
+
+submit { background-color: pink; }
+
+tr { }
+
+body { background-image: url("content://media/external/downloads/1000002422"); background-color: rgb(204, 204, 204); }
+
+nav { background-color: black; margin-top: 0px; padding-top: 0px; }
+
+a { text-decoration: none; font-weight: bolder; }
+
+button { }
+
+h3 { background-color: black; }
+------MultipartBoundary--eFpZ8e0BraC4hnFWttWtjuZde0GF2i7rNMqTa1fwYg----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: http://lMqzRFudUWp7R9r:EIn4QGlFbH7qACs@localhost:49663/storage/emulated/0/styles.css
+
+@charset "utf-8";
+
+.td { text-decoration-color: white; }
+------MultipartBoundary--eFpZ8e0BraC4hnFWttWtjuZde0GF2i7rNMqTa1fwYg----
+Content-Type: image/png
+Content-Transfer-Encoding: binary
+Content-Location: http://uploads.edubilla.com/university/MaulanaAzadNationalUrduUniversity.png
+
+‰PNG
+
+   IHDR  ,  ,   N£~G  >PLTEÿÿÿîîîİİİÌÌÌ»»»ªªª™™™ˆˆˆwwwfffUUUDDD333"""   İİÿ»»ÿªªÿîîÿ™™ÿUUÿ33ÿÿ  ÿDDÿwwÿffÿÌÌÿ""ÿˆˆÿîİİî»ªî™™îªªîÌÌÿîîÿİİî»»îÌ»ÌİÌˆ»wf™UU™DU™3ˆªw»İ»ÌD3Ì Ì  »  Ì""İˆˆİDDÌ"İwwİîİ™»ˆfªUD™3wªfªÌªîÿîf  f Dˆ3İîÌÌDDÌ3"w 3ˆ"w 3ˆ"İffwªwÌİ»Ì33ÌÿÿîİUDİwfİUUî™ˆîª™îˆˆ"wDˆ"™Ì™îîİªÌ™fªfîİÌ»ÌªU™Uˆ»ˆwİfUİÌÌD™D3wİˆwÿîİİD3»İª3w"ÌîÌ4ŒûÇ  +ğIDATxÚí}‹{·µç ˜0 †¢ø–ÈÖÏÚQ¯cÊql')§Q¥$v[7õ&¹Íæfï½»İıÿÿ=˜b¤(ÙiSçó'“œæ7çƒ3·f"”ùAÅ1"I©¤2à«<¢ `”’utB1l”NW!­•”‚G¡Ï¶6Â‚0Z¡¤¤ˆCÿ£Æ`ŠÅ»¡Ta6É£€}tQ?ZJ¨'Îy„~Œá'‘,—UğğcAŒ N·
+%<ÔAgŞ+¡`À
+ˆLö¡#FŞpo qxæm10~'Ùf£õ€‘ÿaÆB®jw“€’9K/û©lüª¤t$ZŠºlëäC8ª”–ğÔé*ÇÉ%iü=-P$2v ‹UìIâÇ•Ç}>é"_4nHÒ4°Ÿ(àÆK×¤€Xå¢<\éÙ¬©@¨ò3ƒs9PªñJâ+Ô
+XöÚ ø²Ê`ëd!Ñ°ôt¨h&+XùÙï©ğ¨Q i¼àpZÑ”2ŞD¼hä>U-/P”„ğ¬LRx
+`ˆ=â-=7Kì­6¯2RŠŸWôlª0p ‹1K ,ò4ü@Ïº}Â"—Ë7/>©w×eUqğ´ïÑ$òCĞW"”şJã^2Z¿¾>‘ïÃq	Ú	dJçi£v_4:Gƒi¬ÕŸ`¥±„ïe,L— f|2}NıXkT\«ñ1*¾.q$¡¼Œ§ëÒ™PEÅ«˜%©¢‘ŠÎ;PŸÏ¹?Y{1w Ëxª¬‚ÈYrJT,eØˆxAÁ#‰–Ş©İØtÌõ½Š¯V{¹Lu–æŒ•»C/Ù¬GSUD&x=i¸Éåj
+<Ç\Á±ØZ\4Ò¸Ğ”Àò0ŒèÔŒãJLÜ£ydÀ*í S€:Â¤Õâh©k¹x?nŒ’À»
+bÎø	÷ºµ”B”¢s4+-ïÀR=ßšÄu°’T†<å–9 F¯Õáµ0µÃZn(öRïÇ-£ ğ©tîèñÄÙÎ«OŒríÊUÚû2I ÚÁs	¤–q2IUš€’/ä,°»¢Ì$#\©äË\Ñ%ÃÅsM5.¾¦Iö<™'ëì]ÒğÄBÂ©YV&Ú¹*Xæ‚QşÙrOv‚–TºgçZçDã\6T|©páÍ‚,©ÚD+ûè‰’ºIÛ3Gr$ÏO“ØCà|,2DÊ`ÅiRø
+T¦zğ™MpÔg©=?YY‘Hòq™h!—oÇ‹µZ•-ğãÂ§$·`¥9FÄ—™dB$ã#XIùX÷+8pCdæ ·´hóŒ¿É
+ ö\½ïÅ	sIiÙ†GÜˆasÕàñ‘(ÎåF‚úM¢Ö4ã€'ÛÌñæ	ìSÒáğ>(º™Gd…iÆÕÉjÜHg—Dx‰ò€Ò æ^Ó&9ˆ¥„^D<WU…bÏ„ÚOñæ	œ$tî¶Ém
+[Ò´ÄƒTgLR	ªCu¹:>Jİ¸Gis T5Æ!D‰0×IzÎö,b9P›íS‡ÛÜªëŒˆ†GÏ‚ÅÊÀ(ûJôŠa¶y`—ª²*LaF‡ÇW©ó@íÔDŒ(:^¨k~ï™&#ÒˆóxÖÃGçYÈF‹äŒlı‘;% l+¥sÛri$Ô"5@Ã ÄµºJ%¸¸wªÃìtÂbe gløÍ
+Xñ¹¸EÒ û*qà
+Á6&9{·w£ ®âÑ×tŸ¥D˜ueœß‰Oçi;kË@q˜8&qòy¾Ã£ÍÊÚğÊÎ†ÁXvã4ĞÔÎOA8¾ã±]"©šŠ÷Dù»
+óÑT­M	·§3Sè
+[0‰Â´A
+IˆLI3Å™Èì ËLÈoÀû	zõæÔ‹¢@qùê©¦â«#"æ‰°*Œç7e(6¥,‚‚oƒ†P	+=Q–äÊÔNş¿IÑ›d+Qø—+¯‘®B½›ëÔ9FpwÂ…Ù»RÚ;ğe–nógéË%y?µ>.åi= ˆ¤ä&Ô²!{œÃ)evl!ÎIb†²@{]‰z7Ã¨©x@A%Å…Å($ó##æ®yª²[YÊ1ÚÂˆë´áNİ)D-YF†¦¹¹Èwğ{ótÁS¹õÌŸJæ²›_
+½%ó3„R-3lãÔ†ù‰8cr¦H£,K¶Ûl‹ÎKæ¡8Á’@˜ªÁSAW¤Ş½,úµì/èü—œŸÂœí@À-OaÆEPz8§Aİ˜6İÉXA´‚µºù‰–Y¨!S°(œ¹"õ—Ê‰yÊÜ¹ñu$¨L`d’;èNè³£W“õ”g‡m¤ú‰›K3[h¾W±	‹«Rïù=[&.$Š0b€•a’˜tİ{†pLÉÙÑ+a«Õ'UI¢\šØ;¶R˜1g‘¼&Ê<H£Ş¯jŞ¢Pnèf¼m`¥ÄÚÂ¤AÖ|‰Ïs1ûK¦n’œ'¡g	&K®©ÄË•üÜfb>Èpµ:KÈß'®–›¤)EËØ‚çVŞ°Kb¬³•fµ€ÎÈ¬IÂy¼rí»‘®ÔzÄ&ã¥ÍÏa¦4˜Ê6W¦Ş‹Q¡ŠŠÜ™uô.¡~hÊiW-õ6õºQ°¼ú=É=@ãde9lßjXK6ì†æeRM;¡‰§V»¾­U+bT'\1°¨|—r3AOã~eŞ»1Gq’‚1¢ÒDJN^ÿ*(¦é\YûgkSœ÷~Vh„l—ñs4Q>)dü6ëÎëñÚ¥Ráj©Ü[_–>,,Â	Ì,g
+ƒÀ·ÄğOàú'»h`Âª¹áqC
+®Vû•©w$ótşã[èj²r-^‘Y3°’ê&Ä˜ÑTı¾µYñ vf0™,M9¦Ë¥|Êşç <£…®&­×Ãc÷’EKQËVÔY¬¹šë˜eÅğ5e//™rW+1®¸a~•Å²zSñ{Yš¶´&Õµt£q]ØU«w$œbÁhåC®jRY9`Ê¼ßk8†ö¢Rş.y¥ğ—Ò*_µz7£ÈÃ+ß·²VÄ-ŸÄ‡~i‹DÌBª3¬´ÿ<p…TîniŒø.RW±š¦bAt²¯«WïHNJˆºCc±3nÅ¯¬,‘…åG´ ¤¨¹¼ªÏM—kqyÃEjíì´vZ»ç=×¹òØÀÑnáÀUR}âÂ-4½ØBV§Ûë2êGísFİåõÕ¹xÕT™›v™êbKv;½A•ú{ûç˜»ˆ¨\¼õäzw¥BÓéÏÖ(g©şÿ6Ü9ÿÉÜenyr¸õ47,ü]´Ğ|R€³ÓÙÂßö^Wë',•'¹úõ¨wo‘ÎË4õE—0ì[¶Çƒ¡×níNÚ^{wg0ØË0œ\è¬Îj›·]—zG2ÚrÎğòÂÀËAûíVkg×k55iyû Ù¾å¯á¹5½!G‘b¹+_“zG¢®çœ\\dòÖßİïà×vÿğÏîÈÙãÖO>÷e°6õôîòW`Õé£2Ğ>
+İî^†[«;ÜA!íŸß,f4/OÎâÙõPAõNËa«qÛğ”×A¦ÚßËÿx{-üÛê˜}.Œ–S|5söÍ¤Ş*+fcÏ¢ÕêæÚ(†;1ÅÎ;I"Âfp­I½#E©^eÂï~ãæ­Û›ÚV#íz#£©ºğw·¨Œ¬®q±F;ŞÄjùæ³ß¹{ãæšÏîÂéôÊæì‰ºÕ›÷îrğÇƒ{Pİé÷Ÿ>œN}ÖpC-pÆ“.HØ.şñ:ÈUcÀhŠk§‡»LP…º(‰£†!Ü}lÎşù“êÙŸ>ûâàËƒç_½(àİuEsögÑÓƒÙÑèhöòëÒ†'‡ÓéC éáŸêhû9Ø³nÁ>º»ÔxâíöA,‡(…í®İsıúºÚº1ÍÏşÍÒ†çÇÙpşüUñ½ÂÅsKéåÑñÉÉñ1ü9:uyıæ!ŞŠ¹£Ão«µV#ĞŒPÌ†ğ§7ôömo±ÙÏ4Õ¤½ß$ˆ·ğÄÙÙ»¾+†3›}¿nlªto†C3trô•³áÛC¼¤‡ÓWÕ£zV_M¬‡ŞÛCøv¼^ßü7£˜ZÅ¿—é­vå7¦ó³¿v÷/§³ùp¯œXÇsš-ëÓÊAÆÈõ[ğÁ„û ”ZÀ=İÁîhĞ2ßÆF;İVf6{KÀúÜëÅÇ0Voh˜egŒÌ5t © xíöÉİnµZkˆ|XIAlX;è¹gŸ[c`®İŞ`g0êÚ½ş>pQ7·û{Ù>» ã»Û
+Ö&«&Y6€š€ ö÷ÇãÎ`2Ní	@Óæ)‡V§3²B»`!£ôvwÛ#kw‡ƒángĞFıQ¿Û·A÷·û–÷ì^íšŠß°Ğ0~æN·7jyÈiı½Áh<wÇğo°ƒ¿à{CÜ=ØÁ^é[VgP8åûCğã÷ñ—É°¿7öz |Æ$éÎ^¿o²¬²=Ü°ºàcò¤À5èµwzƒ½1 5öº Ú`´©Òb'œÑ(+­­kXööxİàÔÙizÃ> ÎÄI’"o•œ‡mõû¨=™Œ&“N{g¿…Y¿ñ –Mbµ¿ÀS [¹»»¿¿ÓîLp¿qEÃoX}ãeí¶v&{ffµßëö†=PSû{°aÒƒï#;é:îuÚû»à{’m«˜¶Ùİ™XúãŞÈø\ÃŞØB8ÙÏ$±5®æi¶
+,7°»ßÎNÀêÃ†ÖpØuvZÎíÚ´ØV•) d¬±‰ª{Ã‘¶‰·3´eãîdÇå¬íË(ëÖ~{²7÷û €{Ğ^ãá¾×šàLê,Tg(°mg›u–g¬a§cLá.òÎN·?èu3kØw¤ÑXÃ@ºİÖ°âgív ˆ!8íİŞpÒîìjãÑ^Ğ9~Ö~¿’ZŞ°öP¼ZÙ—NË‹ÚÙ@°“yğ½Á¨®W¤ob¼µü<6ÜŒû]Ğâ{ƒqgQ4`…±a§;è•bÃÁöÆ†&ë êº5îa³Ûl†ƒI¿;¶2Y‡‘Í:ì_g0«Ü…'+†Ü‡¸ÙF£Ád°2xÏ*Ñœ¨N§e¿ì÷ÇˆF¯Õïu>fJ;˜)íV2¥åÚ£íkßÉÁ·û#”³ş. 5ìôÆrğe)Ü"°Ğyè÷ãLzètqÒçu@uív‹Ù¡İé5ÌIoXílŞp×”À×6pÛN²îÕç÷šjC¶,3#İóZ{Fk›ú†É å{àVìg3ÒfÓ~>#]­\Ş&°pæp¯ef+@‘½p
+”Ô>ÀbjvÆF£ïÚZ‡nõÛæásİÁÿ[X¶‹5Dô:yM¿6i¸m`aÒeÜíµ1ß'{hô ü©m¼õ¦S»Ãî ’pØ>°Œ b%Í®Í5`H«’·‡FrhlßŞ~V²Ü­¾]`Y½İó&Fu›"RÃc«×wÛjá·,Ã5cÀ
+¡!+íŒò?Í7ìwº‹êo·,+c“=Pë-ën¡·`?vÀñâ"•EµÊ[VV‹<è{m#‹“‚0=üíÚEâkÛÁ‚ğÏ Òîx;]Ï†Ö“]d±6Në×3[Vaöa@ƒâØö:Röì²~{ÑÛ0×8_šÙ™ óµÓióõ†İÅKÂ¶,L-©»lÍÎ–‚…ÙĞn¿ŠToÒZzÌÖ‚eğÇbı^·sæB°mË ÖÚßÙÁy×UvŞv°ÎE×`]ƒuÖ5X×`]ƒµAtÖ5X×`­®Áºë¬µÓ5X×`mX$C…áÒ7|æ‡QŒUvÜ°¢4µ/«ĞyØÄXd›tÛu¥[Ø–€Å°¡h1/kÀ÷$—_µ†mÕ°ƒµÓ5>I…ó²í-+N¥¬¾CÈtÌ,úáaW¢zÇS¡§cØV€p­¼0­w³Â®`æÍ $‰khJ”|qSŞàsÀ"¨«ÁB UÊI Óæ7«&	¾Î.oİ·`¥a …jµ}ßr3XBÒí+
+—€U}ïq	,±¥`-l°J72Läö°­–ûV­,›À
+Î–k¯ÁZV”^sÖª`é¾EÀâ[×îû¼\°ÂÄ}Ã;€oXQ,_q§íq	,{|şú‡­+.Àârá©9k•ÀŠ¬yªa+Á*8‹ªX'Œ<z¡ÔQ,¦5µÏvƒåIßK4h,$ih_Ÿ]¶†¾“âÍ[Vê;NL&ä°:X‰óW#X$çİÖå%Ü£Z™4Ud# ,*SEhÁY|«ÁbHy¢d*óµïUÁŠÛz°˜©J“_	ŸÚ¢¹`	luÍY–ö¼ ·B­¸Ï=tÀb)Ô¶ƒçœ%cŸ
+˜1ûê|»¸–Hñ+b¨¶,	`áÇ§ºT*¥•
+E¢â‚(|/`™³ôÖ¥,X@±Æù‹Ti©²y.Wg…É5Xs°È¸
+üxÚ`¯ÁrÁ7‹@Gjšgš¯Á*å`QÅB-¥b|åsİƒo+Ü°¨O+ô’È“ar›¨¹kXA‡!0å*<,µ¥`©ùnLÅÎ+-Ká‚Å®ÁrÀ2y‡&°‚´âg!Gn;X^é­¼Xkˆ³°Âk°JÀ9±aø¾)ç­‹¯V•®ÁºëÁòô5X×`]ƒõÀ’^”J Dğ¨ZÓ]‹úa,Ü]ËmK‘PÂòv­’hQ­…Ô¸‹2»soXq¶`ÀB_‹:nÇ)Ø`1ÍH§jËÀ
+C!D"¤Iÿ
+À+M‚XŒ2ÍÉş'8İ.°Ì
+“Œàh®Db¶4•A¸§ÊiDµ`­t›ü,†%¡òN ”B 2À]Ô€E@P-R¨Ñœ%)æˆ-*Àm I™Q•Û XT¡RüR/~ûó–‚åáûÎA
+.ıYM#Sñ¥ïÉŞ^°<¬¨Ie‚Ì•jó!:ã]õ[ÀJâ$bLÎÚ{ËÁòO-%ôì·,Ïó9q¬²ë5Xç k°®Áºë¬k°®ÁÚ ºë¬uõğ¬ÕÀzˆ4=|uÖ™`!PÓÃé£¿Ş\rB(¥lNğœG{7²³$`ın€zó÷[·ëGÊü0æ˜66ŒJdæsp¢,ôÆ=eºùN1îG Ö·‡¯_=¹[Êä’mZt%ÒZ
+©èêuoß}òê¡ÕˆX?üãN'rÛë˜Eµ¾dw~xó90ØG V'Y“6¥@Öâ(ƒ ğ3å~†‘•ĞûáüE±Ûw¿}ôúã‹ø‘P•[ñu4?[ñ¤³a9=ëCë¤1mØJœÑÔä‘q7íÛJ©*`X'Ç³£X$àÊ½½xa/DVîç·23Í8?cS«À¬“ã£ã+ÎïKËÆˆ.ZÊ÷V#Ô~óG KU%,Ê†ƒ5;zûüŞ)GøÎÊ¢µ
+kÍÏp9g°Øw…øåÑ,ƒk#Áù›ı‹lv˜=x¸ï¾È(ŒB°¾^|ãÎA!°4œ›ÅçŒI~|9³pm$X³Ù—…ü‘@èù,QÛ ³AáDN’6‘©Üâ5sˆ€8çˆ
+­ïvŸüşĞ	'›	ÖÁƒü3‹UÃØ+(Qô²{Ä5,'+L¢b°iÄÑ”GËÑ
+rÌx•Sİ(ç­NŸ>{4;™mX?åªŠÉH9®)¸LèyuLúŠ‰ë5Ñ“	œz$QFƒ'©iñJ½°ÁÌ¹YÏù<;mgeDs¦Ò¼Ñ°Q?N¬pjIB` ¬|)•ŸúÌ|å OAØ£ƒìh)XY¶í7Rğ—ŠsözñãÛÍ‹åÏÖvg¨’oŒ¨{¸S"•g Q"sEÃ4	b\LtœERÅiLÒ0NÇSœ¦Ôn’ë¼Er)ŠNº_¯—ÊåO7‰‰@¡ ß l¸!i@5%¹ß.¬5¥©„ŸSæÅ6$špÿgp«$e~àø‹H¬™S‘èBSam¥Õ^áÙ	±5A%—0He"<•€´yQÊ(<4HY`×Èe÷™¦ñmkMŠ+§(¹lyï«T˜K[%}Î<Œ;.Zá¶èxçîª	;"—y¾)c³ ğòxŠ8Pû3¸aÀ&nÓr¢BğØ£:+ğ"HÛ“ ³1(Æ
+ƒgl¥Tˆ%/=¤œ½Î(†[TºfÑAMé|ÑeÛuÊP¤BpŸ˜=¡ÌØé_‡MÅÜ6³g
+|Ów“e2ÆÀ(è€{qV~Ê”Åi¤ŒB¯ºs$Êà&Á•CU+=³şVö3‰e  …@ÀSÇ&ÉÌ6P–gŞMnû8Ø‹'íw×î^6Ê®E7®LW©jz…„¸!¢¹ÙJÀsJ)8NBÛuÏ¤Øs¨á”-Œ#Gízè©a=ªv@ÉÎéo\ş¨Peèr/Éz¨0ê…‚z§	]²Äi%¹q„p|5°¸Ò5ÀXö¢2•Ùˆ˜°pñu«úl µ2Y?{a Cäíù¨ ½³ú]lz˜æÊ™Dw LQêƒF0Š“§à©PAK£<»Bõ	ßĞ0«î}û?:S«¥]ˆ™5ôsÂ™Ãó†2EÛRRÎ5ü§Ğ*¢l›çOŠ$Ræ»umX…Úao_fZD a€g`4ÊRˆü Šír“¦ŒƒÄ”CPÎÓóÈ/Üw’€·œ­®ŒFp~ûÿNŸYİ%WM.¾_b²¤8Y"p øD€1/] –RFJabA,äªSbÆAf™
+¢ì”¾V=$ôvÁ,*ƒYªZ^²˜iWqõª++¿v”ŸÄ< ®ô"B'	ıtVµDÄê3b9;-ƒLKà*D,ïñ*¢8ÎºÅ`0„MäëØ^VÃZG‡ŞU“¬^–EÁ&,¹–8Ş,†ñ+Ha*¸ˆ™£ÃÍÈLÚyÃê´! V$^ãØÏ5¦ñöOàIEÈË1rW~ÑLEÄæT«Ô×¿WÂŠ,éß@¡‘ò!>ğ´>¤RÎgWş
+ó†fÚ°$±Ù•a.‘^@@ƒWeŸr¼}‡Ó¹‘±ªëÊ}®¸œ%¨ h“ ~4áTUÓãÇGy:çÌÊÒ«ÌÛwhéÖ‘£ŒÆ5Œ.ÈtTÂy`Òtñ»D.ˆt<0!:<øP8\×•*M*ù÷xÊÛ:‰*/Á£B5‚]d [c
+èä¢¿ë5x§˜’²0…E02‚üš®}¾c É‹Å3Èç£’<ËÒœ! îTEæù™Õ°àg4Lçí•ÄĞ~Ğğ´|c4‹%LªÏ„¾`Î˜,ñÊ·AÍ+ŸQ»tfÁüÄZüxª3–&0 ’hÜ+ópó]Š¯vç®z'øèÁ¯J";&ÄF}®Y”+ø(MÓ«÷!Ogì-0™…N×Eö‹Ù–…S‡ñ;9ÏÃ½vàIf'±ï)ìb–©«ª	¿BJLhÁBOÚµÉEê­ÆS·7ÿœ®´Rn)Íù·ôvDå©æ(Mÿ-´àï~¹ª«(Ç¿såMÌÜ¾ûäñçÓ×·,	ø‡re¯‡„nr£\NXàå°8ö¾îjfˆ´‰µ×Eg« QäâWâÖg²å²ÓÇfì
+Í)Uz5´ĞW™çŸo>|õ·›¥BU¿éùT9Çóu2VÅÙªBUfª›ß>*êŠNo·:Æ‰¦WËD)‹kİ~„µâ¯vËM(kÒp–¿Ñ¥.Úk ¿6€ª¤ÁíG‡Ó¼bXÑ7-àWLvyÈ>³l.õMQ\ÿêÉ]÷êÅœÎ\yåå¢Ğ°ë"^6Æ4ƒªòşaú0_h½ºm{jâ´×
+ö)ˆ(J-­ÒùûÔVs[¼>ÿ‡³gnXæùø kk3·İë¢ÂÙ2å‹ z5ƒ5}xø]”x…`M˜G‚RÈñkw§óE(@‡å…$Ÿî-C¬#‚®ãlEz1T ´\° ­Ï²>®Jˆe‹ÜKĞpŒ‚Ô ôw>/á>}S? >§ƒ
+ã\e…—BIfc|Yßƒ§åÿZºETò$"ÌM·s_-x‹&ãœb\Á:àà¡Üù¦r¢[M‡åú€Î‡¹º:,|U6©¦N_üüÇ£/ïø»×e†@“ˆ¢•¤-2NÔ½!Ğf~Š	u•bm_`¶–±}²`\ÂUõÁF0–u¶lL[d&±„lvü¶ÂZŸ–îÒ E!ª1ÕÏx+qâ\;Š†€™zs³·_•±š~SYôl^€èLÔ­)5S#’y‚—ÜÇâÄã“£ï*{VïsúN9 îR0wàĞûÁ‚óÆ –‰‡/¦Ó¯·½Vøêáônù÷f³ƒ_
+¸¬î‚q]©™ùVY	*¤*kİz]¹ÓÃoÑxùÑ
+µ
+®˜»ØRç§	æï}1¾[>ÃÔœ¡Dÿsv‚EÓ/ò±u½ëIÍÔ‰ÏŸÛ‹_ßååúõ2á‡å[}xøØÄx8å‡Ë+ˆvÔ<§Rã”Ö“x4ÄxàÆ´‚ÕôÕ_ÊWx0³åø§¿æ'Ê‰Í`,t¶Š÷8şô³gOµ@ñM­éçè$7oRÑ¬ì6šIğ)2Õ|ç¯®c›Ge:°—?™½Íá"Æ¥ÙÆòòj*¤ï°NfŸTv¬¨gÃ(¿†ş_'¢àäãÜæÿğºŠÕÃiuñ/ó;Wö+šê5åü–ÓÓ·ÎZºãÙƒÊæ²C™1×?ŒAÃäø Îªß$ÑcSêø‡ÇÌÛ9Ë›K†­µ(¤™0!úüÈ‘ÃÙË•]î>¬£uøÍ¥‚—Şz_Ôvy·ŞL+l…XıV½ş}÷ÚÇo7 ‡ŒØ<uÇ{rt¿ºÓÍú]Ã÷GŸeÙ<âNÿØûöÍ¿>¬X=®(÷ÒQ¸ô¯ŞÆÅpõs‰µïUw¼Q“'Ã]¯ßüp§á´·ï>ùf:mÂêÓÚjşÿtËì¿6–±–¯ØH¬¢µj‚Ø„–ãõŸşûæ?îÜ½ñ¦Ö¡zxø§V¿–ñÑ3œwZ7.5"ÔOçøò*C%ÍQ÷ã›ÑšfÉ©éçŸ>şíÛ'ûíÍão^O‘²Z«ïKéR¼Æ”û
+S§,(Î{bi¶k“`Ø¿Ô¸ùº­é<•zxxXüğ°i¿ºn¯]—óÅ<—‡)i S›iBİÏ®<ÏªQĞM›PÈsôM÷™N2Ÿ”øyvàá.‘kNÖ‰b:Çòƒ$4¢xPÒjËûß:\ ÅY‡½nèió¬ô€Œ]!Z0’lo±$d8ı,X6¹÷uIÇŸ}ÒpĞ“éô"p¾jÈö}5+_=–ÈÔ6¥bÃ¬¢ÏS‰ëc^‹_Îğ¶€î>:?sáß64 zPâ*0Áøb¬Ôñ*ı’®Œ&³H$“Xeò?ËR1{ÖpÔíoÏÉ\ÆÙ¿Ûp¦¯ßÎ«Bè%v:bmüŠs“WCI€Ÿ¥}Ì×QL†”-@ëç¦Ãî¾:\.ã¹şw[y?ÎêŒ`ù…!­wrµJTë˜øv‘›ÔÁ…ÛŒ–wãQ³'ÕÕÃo›||¼,ce,¡)ÅÊ3‰|“”i€
+Uû¦>Ş<Ç/VBëößM§gáezà=üíŸg¨`•¹*<åØ,}İ3…ÍDG¾QÑ›õ˜/^VyëÇæ#oßü?ÖQ_ìyÁŸ?¹Ó|øÓÓêuĞ	À—1õ›|ƒT{A>&É­°›Œ]´{¯¢¶gÓ · X>œ{¤Hùıë77o/8ôŞÛ2VVa|1ë@t´+¥3	ŠI¶X›¨§âû ZKzüáÉ§¦Éuâ§øLıöÃí…‡ı«†útD_Ù)”PoPF¹ ÆŒÎ‚‡	ÑÍ¥?«¨­“£ƒeã¾s÷³7¯>wdñõ7ÿöÃ­e}6;.ce£…ç'b;IA×Y“µˆé#±q5´ííô¼ŠÖìôû3ÎrûÎ­ßÿ€tóîïîœ±ï‹/+çÿ¿¨ÜYšàŠi\¡ÉlúvãÀ
+#•cGú¤†Öñ³wºˆK÷NkgkRç¸¹ä‹#6e
+¬BÒ	6$pKˆ*÷ŠëàéÅ/áÒ³ãY+ä[‚/6²«£B¦6f¾°ˆH³îj¡©§©:Aæ–~~·kúúËŠÂc8şn)æ •şFùî%b<qÚÜ0yYå­`®{ïtĞV÷ÿ£á!}Ş(XBËô‰Ú@C8+«"\Bk»1/k’šëßŞé.~9=:^€ ¥(*-Ï§àmm^~N¾Ñí¡f=®42ğ—Oêh½}öâ¢ùş`6«ão±ŠÀÈ¤:Ô:¢>¾Ğnİ€,%ˆyp'Á2¡(/‰z^S/8»~úìBÜõ  j8İéÿÃaªÁ*&ø'ÄÕ¯Y=aœ«ÃLack‹î×oáúóıóÆ_5AŞîKs&x<Ìó6×¶ ì<h©+ƒq¡rªÌº:¤¯júØÂõö‹ç8÷Óû§³ÙqıDÇG_˜ÉiLÔr/á¸x#Æd÷ºÁ8-¬/^,E°¢ïØ½Ó´L·ÎÓïî­¤½şxp|Ôx’Y¡Ç)ÆNpM&Iê‹ï7’„°W~š`‹,ÂmN‰|rtÜ×Ññéó_–Ëã‹ïıãÛf¦ÂÇp'C#J ™ç3±†¥Ğ¡0¸ï4‰d²X\Tó¸¼fo_>ÿñ^“Šyñô—ûÿu|ÔŒÚÕƒŸV2ö|4(½—PF›6¶ˆpÁ-6 
+¼P9½ï½<j¾cü Äÿúó/¾7ô¯¯}÷Å—§fË‚ãĞc°±&Ã c²C˜…y„Š#¬¥†ÁK¿äDß_À\æ¾±Ùìè(7wğ>Ïì–ıÑb†©Œ°ÖÂ„Z<Õ›7m¿ŒÀáa`“D¥ğñŞ—³ÅpYÈNÜÏËöEÏÖfª	ºv>¸W¡mÖ#Ö½¢éœÄS¤QT,kˆó™–Ÿß.’ÅóÒlöü§üÉD`¾ØddüdÓ¬2‘@áò‘Ü/4°Yï¿ûï®Y‡!¸s-‚)µÙNûÂ–™If	…ÔÒyı÷ÓçÇïºg/³B&\_Å±-)/Š7c…Îˆåº#‰ãÔ+¶›ö;@õe¡Jc_]"°	shVômæTáYØ¾äDj–˜pù¶§÷ÿ¼Ø!XÔÑIÑL= (£»S)ßÌxş‡á‹6 …ØP…‰|“D•ÌóY¼?¹ĞÕ\„”	æÑ·ó7L³Dj-ÑµSÁ‡¥ÙKD<âkı¸Û(ˆ“â†îA`Œx­˜uô¿ø%$±KÃµ>±`
+è@<ºùy†¥dfÑÙòMÏ!ø›Ò«î¿<6nèÉrB¤şüÅWó7dP³´;æy*\˜ËP£00€ÿD’ƒÖåNr_ÿøIÓ7Ô-°<±n=xòoî?˜''(¡3™El8(’ÄóTãM y>·d(RØ%ÿâëŸ¿;8—ã—à‡ã·/ÿıÙ‡eXÌƒ}Íq="6Ë"œ­'\L„ë¬y/O#`2™Zò«ÍÇŸ~ÿÕıç_¼|ùòôôÏ§/_|òü»ŸTr¦·´Â5ş'œXsïë¾Ï÷DàÍ«Ğ"…Ñ5.Â4ë
+0EÔl¾!M	A
+àQ‚"WÀZY‹ê4Râoğ\êy)ÖøŠæ)Q#s¨ûÓS'\‰'Ìªuš¤Ø|*)X+Ø¨•—ï…X‚é¸ Ó(t9|’Ø¬SQ~FËD…û‰”G)Ìy$ö0¬…U‹€Š±ùN`µ2è.ğ"—¦`=á!8OóŒ6q`>6,"8! g¬I!Ìô¤±œm”¾IuÛï‹fP©6}1±<Pj.¾/ñe‡	¾­6±¡ÇløãÔ² ±Ø€%”ğÀ?n¦$ÁedÅÖ[$Q®1¶æÆqˆc%xä‰Hƒc/5áÀ42‰Ì›pùÉ×µÓ•ó¡¦{ÇÁÚÄÀ³ZL˜PA'>J_II©Â©Eƒii(:%±À6@Ì#YŞ› Jà¤‹|ÁJ`û¾æŞaW@L¨ØÂF°Éx«¦#sŒ÷Æ°´Ê‡ø%Æ—ƒmWâƒB0núsº•µ—C1÷ &ªbi:c¡Ö‘ ,™òÛ•cãoi;ïcşEB nzv}ÄÚªFÈ*¥\˜Uè¨| %ÑU•B)C"vØ‹Æ³…¾Ä¾ÈZ‹ÍZ2qÉÄÀOĞÊ×>Nº›Æ¹àV ÌAä(â4A¾KM'6«ÃQOÂOÌ«Ø¶Füâ1:§&TÄ|½õ â43é*ˆLû#ßøQF¦¹x·Ã0³€J„o» è•+íƒcŸÆà)Pó"šĞãmoG°­Hå€zOØ'’§1G¥9=ĞP({æ5D8EÈ\…³¢¾%’ ™CØğOñk„	†]Úµn¢¸()Lğ©"NIèÓeM&¯ş?Ú`(ıº¹]/    IEND®B`‚
+------MultipartBoundary--eFpZ8e0BraC4hnFWttWtjuZde0GF2i7rNMqTa1fwYg------
