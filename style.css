@@ -1,0 +1,38 @@
+.navbar navbar-expand-lg navbar-light bg-light{
+  background-color: cyan;
+  text-decoration-color: 
+  margin-top:0px;
+  width:550px;
+}
+.container-fluid{
+  background-color: blue;
+  color:cyan;
+  margin-top: 0px;
+}
+
+.collapse navbar-collapse{
+  color:cyan;
+}
+
+.carousel-control-prev-icon{
+  align-content: center;
+  font-size: 7px;
+  
+}
+dropdown-menu{
+  display: flex;
+}
+.btn btn-primary{
+  display:inline;
+}
+nav-item{
+  
+}
+.card-group{
+  display: flex;
+}
+.icon{
+  background-color: black;
+  display: flex;
+  display: inline;
+}
